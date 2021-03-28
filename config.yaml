@@ -1,8 +1,8 @@
-baseurl: 
+baseurl: https://benontrack.netlify.app/
 languageCode: en-us
-title: Parsa Hugo | Personal Blog Template
+title: BenOnTrack
 theme: parsa-hugo
-summaryLength: '10'
+summaryLength: '5'
 paginate: 6
 googleAnalytics: ''
 outputs:
@@ -11,18 +11,17 @@ outputs:
     - RSS
     - JSON
 params:
-  address: 6 rip carl Avenue CA 90733
-  author: John Doe
+  address: Belgium
+  author: BenOnTrack
   author_image: images/banner-img.png
-  bio: I’m a Freelance Interactive Art Director based in France. Focusing across branding
-    and identity, digital and print.
+  bio: I'm a traveller
   contact_form_action: '#'
   cookies:
     enable: yes
     expire_days: 2
   copyright: Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)
   description: This is meta description
-  email: exmaple@ymail.com
+  email: BenOnTrack@gmail.com
   home: Home
   instafeed:
     access_token: IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn
@@ -62,14 +61,8 @@ menu:
   main:
     - hasChildren: yes
       name: Homepage
-      url: ''
+      url: home
       weight: 1
-    - name: Homepage 1
-      parent: Homepage
-      url: homepage/home-1
-    - name: Homepage 2
-      parent: Homepage
-      url: homepage/home-2
     - name: About
       url: about
       weight: 2

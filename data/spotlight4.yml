@@ -1,0 +1,9 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onload-image-fade-in"
+title : "Spotlight 4"
+content: |
+  New
+button: 
+  label: "Learn More"
+  link: "#"
+image: "images/spotlight02.jpg"

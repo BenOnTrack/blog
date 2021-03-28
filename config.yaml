@@ -1,4 +1,4 @@
-title: test
+title: hugo-story
 theme: hugo-story
 disableKinds:
   - taxonomy
@@ -9,8 +9,8 @@ Params:
   favicon: yes
   logo: images/banner.jpg
   social:
-    email: caressofsteel@protonmail.com
-    github: https://github.com/caressofsteel/
+    email: benontrack@gmail.com
+    github: https://github.com/benontrack/
     instagram: https://instagram.com
     linkedin: https://linkedin.com
     telegram: https://telegram.org

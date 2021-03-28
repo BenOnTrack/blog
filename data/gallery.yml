@@ -1,6 +1,7 @@
 title: "Gallery"
 style: "style2 medium lightbox onscroll-fade-in"
-content:
+content: |
+  Check the last pictures of my trip!
 pictures:
   - title: "Title"
     content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."

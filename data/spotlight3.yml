@@ -1,5 +1,5 @@
 ####################### Spotlight #########################
-style: "style1 color2 orient-right content-align-left image-position-center onscroll-image-fade-in"
+style: "style1 color1 orient-right content-align-left image-position-center onscroll-image-fade-in"
 id: "first"
 title : "Spotlight"
 content: |

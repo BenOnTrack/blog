@@ -1,6 +1,6 @@
 baseurl: https://benontrack.netlify.app/
 languageCode: en-us
-title: Parsa Hugo | Personal Blog Template
+title: BenOnTrack
 theme: parsa-hugo
 summaryLength: '20'
 paginate: 6
@@ -11,8 +11,8 @@ outputs:
     - RSS
     - JSON
 params:
-  address: 6 rip carl Avenue CA 90733
-  author: John Doe
+  address: Made with love in Toulouse
+  author: Ben On Track
   author_image: images/banner-img.png
   bio: I’m a Freelance Interactive Art Director based in France. Focusing across branding
     and identity, digital and print.
@@ -20,16 +20,15 @@ params:
   cookies:
     enable: yes
     expire_days: 2
-  copyright: Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)
+  copyright: Copyright &copy; 2020 a theme by themefisher.com
   description: This is meta description
-  email: exmaple@ymail.com
+  email: BenOnTrack@gmail.com
   home: Home
   instafeed:
     access_token: IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn
-    enable: yes
+    enable: no
   layout: '1'
   logo: images/logo_square_small.png
-  mobile: +90 000 333 22
   plugins:
     css:
       - link: plugins/bootstrap/bootstrap.min.css
@@ -51,13 +50,13 @@ params:
   search: yes
   social:
     - icon: ti-facebook
-      url: '#'
+      url: 'https://www.facebook.com/benontrack'
     - icon: ti-twitter-alt
-      url: '#'
+      url: 'https://twitter.com/BenOnTrack'
     - icon: ti-linkedin
-      url: '#'
+      url: 'https://www.linkedin.com/in/benjaminmodave/'
     - icon: ti-github
-      url: '#'
+      url: 'https://github.com/BenOnTracks'
 menu:
   main:
     - name: About

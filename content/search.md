@@ -1,5 +1,5 @@
 ---
-description: This is meta description
+description: Search tags or categories !
 layout: search
 title: Search Result
 ---

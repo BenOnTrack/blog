@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sport on BenOnTrack</title>
+    <link>https://benontrack.netlify.app/tags/sport/</link>
+    <description>Recent content in Sport on BenOnTrack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Sep 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://benontrack.netlify.app/tags/sport/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Green Marathon</title>
+      <link>https://benontrack.netlify.app/blog/2015-09-21-green-marathon/</link>
+      <pubDate>Mon, 21 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://benontrack.netlify.app/blog/2015-09-21-green-marathon/</guid>
+      <description>Enjoy this little video summarising our Green Marathon on the unfamous Molokoi trek in Cacao, French Guiana !
+  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,137 +2,59 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/blog/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>https://benontrack.netlify.app/about/</loc>
+    <lastmod>2021-03-30T14:46:10+06:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>https://benontrack.netlify.app/</loc>
+    <lastmod>2015-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2020-12-01-r-rmarkdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>https://benontrack.netlify.app/blog/</loc>
+    <lastmod>2015-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>https://benontrack.netlify.app/categories/</loc>
+    <lastmod>2015-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/plot/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>https://benontrack.netlify.app/tags/south-america/</loc>
+    <lastmod>2015-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/r/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>https://benontrack.netlify.app/categories/south-america/</loc>
+    <lastmod>2015-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/r-markdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>https://benontrack.netlify.app/tags/sport/</loc>
+    <lastmod>2015-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/regression/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>https://benontrack.netlify.app/tags/</loc>
+    <lastmod>2015-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/test</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>https://benontrack.netlify.app/blog/2015-09-21-green-marathon/</loc>
+    <lastmod>2015-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/article/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+    <loc>https://benontrack.netlify.app/categories/trip/</loc>
+    <lastmod>2015-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/article/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+    <loc>https://benontrack.netlify.app/tags/video/</loc>
+    <lastmod>2015-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/charming-evening-field.1/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+    <loc>https://benontrack.netlify.app/categories/america/</loc>
+    <lastmod>2015-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/charming-evening-field.10/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+    <loc>https://benontrack.netlify.app/tags/usa/</loc>
+    <lastmod>2015-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/charming-evening-field.11/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+    <loc>https://benontrack.netlify.app/blog/2015-07-03-new-york/</loc>
+    <lastmod>2015-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/charming-evening-field.2/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+    <loc>https://benontrack.netlify.app/blog/2012-08-05-venezuela-colombia/</loc>
+    <lastmod>2012-08-05T14:46:10+06:00</lastmod>
   </url><url>
-    <loc>/blog/charming-evening-field.3/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+    <loc>https://benontrack.netlify.app/contact/</loc>
   </url><url>
-    <loc>/blog/charming-evening-field.4/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+    <loc>https://benontrack.netlify.app/homepage/home-1/</loc>
   </url><url>
-    <loc>/blog/charming-evening-field.5/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+    <loc>https://benontrack.netlify.app/homepage/home-2/</loc>
   </url><url>
-    <loc>/blog/charming-evening-field.6/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+    <loc>https://benontrack.netlify.app/homepage/</loc>
   </url><url>
-    <loc>/blog/charming-evening-field.7/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url><url>
-    <loc>/blog/charming-evening-field.8/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url><url>
-    <loc>/blog/charming-evening-field.9/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url><url>
-    <loc>/blog/charming-evening-field/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url><url>
-    <loc>/tags/fashion/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url><url>
-    <loc>/categories/fashion/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url><url>
-    <loc>/tags/finance/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url><url>
-    <loc>/tags/food/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url><url>
-    <loc>/categories/food/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url><url>
-    <loc>/tags/nature/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url><url>
-    <loc>/categories/nature/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url><url>
-    <loc>/blog/organize-your-life.1/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url><url>
-    <loc>/blog/organize-your-life.2/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url><url>
-    <loc>/blog/organize-your-life.3/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url><url>
-    <loc>/blog/organize-your-life.4/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url><url>
-    <loc>/blog/organize-your-life/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url><url>
-    <loc>/tags/photos/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url><url>
-    <loc>/tags/south-america/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url><url>
-    <loc>/categories/south-america/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url><url>
-    <loc>/tags/test/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url><url>
-    <loc>/categories/valuable-idea/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url><url>
-    <loc>/tags/video/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url><url>
-    <loc>/contact/</loc>
-  </url><url>
-    <loc>/homepage/home-1/</loc>
-  </url><url>
-    <loc>/homepage/home-2/</loc>
-  </url><url>
-    <loc>/homepage/</loc>
-  </url><url>
-    <loc>/search/</loc>
+    <loc>https://benontrack.netlify.app/search/</loc>
   </url>
 </urlset>

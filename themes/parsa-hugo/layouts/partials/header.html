@@ -1,6 +1,5 @@
 <header class="navigation">
   <nav class="navbar navbar-expand-lg navbar-light">
-    <a class="navbar-brand" href="{{site.BaseURL}}"><img class="img-fluid" src="{{ site.Params.logo | absURL }}" alt="{{site.Title}}"></a>
     <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navogation"
       aria-controls="navogation" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -37,4 +36,11 @@
       {{ end }}
     </div>
   </nav>
+
+
 </header>
+<div class="logo">
+<a href="{{ site.BaseURL }}" style="display: block">
+<img  src="{{ site.Params.logo_main | absURL }}" alt="{{site.Title}}">
+</a>
+</div>

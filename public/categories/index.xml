@@ -1,72 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Parsa Hugo | Personal Blog Template</title>
-    <link>/categories/</link>
-    <description>Recent content in Categories on Parsa Hugo | Personal Blog Template</description>
+    <title>Categories on BenOnTrack</title>
+    <link>https://benontrack.netlify.app/categories/</link>
+    <description>Recent content in Categories on BenOnTrack</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>R</title>
-      <link>/categories/r/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      
-      <guid>/categories/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Article</title>
-      <link>/categories/article/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>/categories/article/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fashion</title>
-      <link>/categories/fashion/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>/categories/fashion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Food</title>
-      <link>/categories/food/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>/categories/food/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nature</title>
-      <link>/categories/nature/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>/categories/nature/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Mon, 21 Sep 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://benontrack.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>South America</title>
-      <link>/categories/south-america/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      <link>https://benontrack.netlify.app/categories/south-america/</link>
+      <pubDate>Mon, 21 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>/categories/south-america/</guid>
+      <guid>https://benontrack.netlify.app/categories/south-america/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Valuable Idea</title>
-      <link>/categories/valuable-idea/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      <title>Trip</title>
+      <link>https://benontrack.netlify.app/categories/trip/</link>
+      <pubDate>Mon, 21 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>/categories/valuable-idea/</guid>
+      <guid>https://benontrack.netlify.app/categories/trip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>America</title>
+      <link>https://benontrack.netlify.app/categories/america/</link>
+      <pubDate>Fri, 03 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://benontrack.netlify.app/categories/america/</guid>
       <description></description>
     </item>
     

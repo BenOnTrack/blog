@@ -1,174 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Parsa Hugo | Personal Blog Template</title>
-    <link>/blog/</link>
-    <description>Recent content in Blogs on Parsa Hugo | Personal Blog Template</description>
+    <title>Blogs on BenOnTrack</title>
+    <link>https://benontrack.netlify.app/blog/</link>
+    <description>Recent content in Blogs on BenOnTrack</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Sep 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://benontrack.netlify.app/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello R Markdown</title>
-      <link>/blog/2020-12-01-r-rmarkdown/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <title>The Green Marathon</title>
+      <link>https://benontrack.netlify.app/blog/2015-09-21-green-marathon/</link>
+      <pubDate>Mon, 21 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2020-12-01-r-rmarkdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents.</description>
+      <guid>https://benontrack.netlify.app/blog/2015-09-21-green-marathon/</guid>
+      <description>Enjoy this little video summarising our Green Marathon on the unfamous Molokoi trek in Cacao, French Guiana !
+  </description>
     </item>
     
     <item>
-      <title>Charming Evening Field</title>
-      <link>/blog/charming-evening-field.1/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      <title>USA - the big Apple!</title>
+      <link>https://benontrack.netlify.app/blog/2015-07-03-new-york/</link>
+      <pubDate>Fri, 03 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>/blog/charming-evening-field.1/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
+      <guid>https://benontrack.netlify.app/blog/2015-07-03-new-york/</guid>
+      <description>Enjoy this little video summarizing my first trip in USA !
+  </description>
     </item>
     
     <item>
-      <title>Charming Evening Field</title>
-      <link>/blog/charming-evening-field.10/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      <title>Venezuela - Colombia</title>
+      <link>https://benontrack.netlify.app/blog/2012-08-05-venezuela-colombia/</link>
+      <pubDate>Sun, 05 Aug 2012 14:46:10 +0600</pubDate>
       
-      <guid>/blog/charming-evening-field.10/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
-    </item>
-    
-    <item>
-      <title>Charming Evening Field</title>
-      <link>/blog/charming-evening-field.11/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>/blog/charming-evening-field.11/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
-    </item>
-    
-    <item>
-      <title>Charming Evening Field</title>
-      <link>/blog/charming-evening-field.2/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>/blog/charming-evening-field.2/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
-    </item>
-    
-    <item>
-      <title>Charming Evening Field</title>
-      <link>/blog/charming-evening-field.3/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>/blog/charming-evening-field.3/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
-    </item>
-    
-    <item>
-      <title>Charming Evening Field</title>
-      <link>/blog/charming-evening-field.4/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>/blog/charming-evening-field.4/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
-    </item>
-    
-    <item>
-      <title>Charming Evening Field</title>
-      <link>/blog/charming-evening-field.5/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>/blog/charming-evening-field.5/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
-    </item>
-    
-    <item>
-      <title>Charming Evening Field</title>
-      <link>/blog/charming-evening-field.6/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>/blog/charming-evening-field.6/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
-    </item>
-    
-    <item>
-      <title>Charming Evening Field</title>
-      <link>/blog/charming-evening-field.7/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>/blog/charming-evening-field.7/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
-    </item>
-    
-    <item>
-      <title>Charming Evening Field</title>
-      <link>/blog/charming-evening-field.8/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>/blog/charming-evening-field.8/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
-    </item>
-    
-    <item>
-      <title>Charming Evening Field</title>
-      <link>/blog/charming-evening-field.9/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>/blog/charming-evening-field.9/</guid>
-      <description>Au dessus
- Encadré
- En dessous</description>
-    </item>
-    
-    <item>
-      <title>Charming Evening Field</title>
-      <link>/blog/charming-evening-field/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>/blog/charming-evening-field/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
-    </item>
-    
-    <item>
-      <title>Organize Your Life With 10 Simple rule</title>
-      <link>/blog/organize-your-life.1/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>/blog/organize-your-life.1/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
-    </item>
-    
-    <item>
-      <title>Organize Your Life With 10 Simple rule</title>
-      <link>/blog/organize-your-life.2/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>/blog/organize-your-life.2/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
-    </item>
-    
-    <item>
-      <title>Organize Your Life With 10 Simple rule</title>
-      <link>/blog/organize-your-life.3/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>/blog/organize-your-life.3/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
-    </item>
-    
-    <item>
-      <title>Organize Your Life With 10 Simple rule</title>
-      <link>/blog/organize-your-life.4/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>/blog/organize-your-life.4/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
-    </item>
-    
-    <item>
-      <title>Organize Your Life With 10 Simple rule</title>
-      <link>/blog/organize-your-life/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>/blog/organize-your-life/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
+      <guid>https://benontrack.netlify.app/blog/2012-08-05-venezuela-colombia/</guid>
+      <description>Trip 2012 Enjoy this little video summarising my trip with Julien to Venezuela and Colombia in 2012!
+ </description>
     </item>
     
   </channel>

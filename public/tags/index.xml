@@ -1,117 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Parsa Hugo | Personal Blog Template</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on Parsa Hugo | Personal Blog Template</description>
+    <title>Tags on BenOnTrack</title>
+    <link>https://benontrack.netlify.app/tags/</link>
+    <description>Recent content in Tags on BenOnTrack</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>plot</title>
-      <link>/tags/plot/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      
-      <guid>/tags/plot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      
-      <guid>/tags/r-markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>regression</title>
-      <link>/tags/regression/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      
-      <guid>/tags/regression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Article</title>
-      <link>/tags/article/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>/tags/article/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fashion</title>
-      <link>/tags/fashion/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>/tags/fashion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Finance</title>
-      <link>/tags/finance/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>/tags/finance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Food</title>
-      <link>/tags/food/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>/tags/food/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nature</title>
-      <link>/tags/nature/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>/tags/nature/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Photos</title>
-      <link>/tags/photos/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>/tags/photos/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Mon, 21 Sep 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://benontrack.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>South America</title>
-      <link>/tags/south-america/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      <link>https://benontrack.netlify.app/tags/south-america/</link>
+      <pubDate>Mon, 21 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>/tags/south-america/</guid>
+      <guid>https://benontrack.netlify.app/tags/south-america/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>test</title>
-      <link>/tags/test/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      <title>Sport</title>
+      <link>https://benontrack.netlify.app/tags/sport/</link>
+      <pubDate>Mon, 21 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>/tags/test/</guid>
+      <guid>https://benontrack.netlify.app/tags/sport/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Video</title>
-      <link>/tags/video/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      <link>https://benontrack.netlify.app/tags/video/</link>
+      <pubDate>Mon, 21 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>/tags/video/</guid>
+      <guid>https://benontrack.netlify.app/tags/video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>USA</title>
+      <link>https://benontrack.netlify.app/tags/usa/</link>
+      <pubDate>Fri, 03 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://benontrack.netlify.app/tags/usa/</guid>
       <description></description>
     </item>
     

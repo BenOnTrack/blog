@@ -1,4 +1,8 @@
 baseurl: https://benontrack.netlify.app/
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 languageCode: en-us
 title: BenOnTrack
 theme: parsa-hugo
@@ -29,6 +33,7 @@ params:
     enable: no
   layout: '1'
   logo: images/logo_square_small.png
+  logo_main : images/logo_main.png
   plugins:
     css:
       - link: plugins/bootstrap/bootstrap.min.css

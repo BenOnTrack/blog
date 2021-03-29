@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trip on BenOnTrack</title>
+    <link>https://benontrack.netlify.app/categories/trip/</link>
+    <description>Recent content in Trip on BenOnTrack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Sep 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://benontrack.netlify.app/categories/trip/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Green Marathon</title>
+      <link>https://benontrack.netlify.app/blog/2015-09-21-green-marathon/</link>
+      <pubDate>Mon, 21 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://benontrack.netlify.app/blog/2015-09-21-green-marathon/</guid>
+      <description>Enjoy this little video summarising our Green Marathon on the unfamous Molokoi trek in Cacao, French Guiana !
+  </description>
+    </item>
+    
+    <item>
+      <title>USA - the big Apple!</title>
+      <link>https://benontrack.netlify.app/blog/2015-07-03-new-york/</link>
+      <pubDate>Fri, 03 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://benontrack.netlify.app/blog/2015-07-03-new-york/</guid>
+      <description>Enjoy this little video summarizing my first trip in USA !
+  </description>
+    </item>
+    
+    <item>
+      <title>Venezuela - Colombia</title>
+      <link>https://benontrack.netlify.app/blog/2012-08-05-venezuela-colombia/</link>
+      <pubDate>Sun, 05 Aug 2012 14:46:10 +0600</pubDate>
+      
+      <guid>https://benontrack.netlify.app/blog/2012-08-05-venezuela-colombia/</guid>
+      <description>Trip 2012 Enjoy this little video summarising my trip with Julien to Venezuela and Colombia in 2012!
+ </description>
+    </item>
+    
+  </channel>
+</rss>

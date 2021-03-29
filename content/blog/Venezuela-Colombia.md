@@ -16,18 +16,11 @@ type: post
 
 Enjoy this little video summarising my trip with Julien to Venezuela and Colombia in 2012 !
 
-<div>
-<iframe allow="autoplay; fullscreen" allowfullscreen="" frameborder="0" height="564" src="https://player.vimeo.com/video/194111799" width="640"></iframe><br />
+<iframe src="http://www.youtube.com/embed/4aQwT3n2c1Q" class="is-fullwidth" height="315px"</iframe>
+    
+<div class="video-container">
+    <iframe src="http://www.youtube.com/embed/4aQwT3n2c1Q" height="315" width="560" allowfullscreen="" frameborder="0">
+    </iframe>
 </div>
-
-<div>
-  <iframe id="inlineFrameExample"
-      title="Inline Frame Example"
-      width="300"
-      height="200"
-      src="https://www.openstreetmap.org/export/embed.html?bbox=-0.004017949104309083%2C51.47612752641776%2C0.00030577182769775396%2C51.478569861898606&layer=mapnik">
-  </iframe>
-</div>
-
 
 

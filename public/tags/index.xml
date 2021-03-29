@@ -80,20 +80,38 @@
     </item>
     
     <item>
-      <title>Philosophy</title>
-      <link>/tags/philosophy/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>/tags/philosophy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Photos</title>
       <link>/tags/photos/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
       <guid>/tags/photos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>South America</title>
+      <link>/tags/south-america/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>/tags/south-america/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>/tags/test/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>/tags/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video</title>
+      <link>/tags/video/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>/tags/video/</guid>
       <description></description>
     </item>
     

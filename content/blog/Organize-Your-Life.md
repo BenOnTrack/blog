@@ -5,7 +5,7 @@ date: "2019-05-14T14:46:10+06:00"
 description: This is meta description
 image: images/featured-post/post-1.jpg
 tags:
-- Photos
+- Test
 - Finance
 title: Organize Your Life With 10 Simple rule
 type: featured

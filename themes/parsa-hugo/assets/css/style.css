@@ -98,13 +98,13 @@ h6, .h6 {
 }
 
 .btn-primary {
-  background: #0587a1;
+  background: #79a4c7;
   color: #fff;
   border: 0;
 }
 
 .btn-primary:active {
-  background: #0587a1 !important;
+  background: #79a4c7 !important;
 }
 
 .btn-primary:hover {
@@ -129,7 +129,7 @@ h6, .h6 {
 }
 
 .btn-transparent {
-  color: #0587a1;
+  color: #79a4c7;
   border: 0;
 }
 
@@ -178,7 +178,7 @@ body {
   height: 16px;
   top: 12px;
   left: 15px;
-  background: #0587a1;
+  background: #79a4c7;
   border-radius: 50%;
   -webkit-transform: translateX(0);
           transform: translateX(0);
@@ -201,7 +201,7 @@ body {
   width: 16px;
   height: 16px;
   margin-left: 16px;
-  background: #0587a1;
+  background: #79a4c7;
   border-radius: 50%;
 }
 
@@ -264,10 +264,10 @@ select:focus {
 }
 
 a:hover {
-  color: #0587a1;
+  color: #79a4c7;
 }
 a.text-dark:hover {
-  color: #0587a1 !important;
+  color: #79a4c7 !important;
 }
 
 .slick-slide {
@@ -330,15 +330,15 @@ a.text-dark:hover {
 }
 
 .bg-primary {
-  background: #0587a1 !important;
+  background: #79a4c7 !important;
 }
 
 .bg-secondary {
-  background: #43a6ba !important;
+  background: #679da8 !important;
 }
 
 .text-primary {
-  color: #0587a1 !important;
+  color: #79a4c7 !important;
 }
 
 .text-color {
@@ -410,7 +410,7 @@ a.text-dark:hover {
 .form-control:focus {
   outline: 0;
   box-shadow: none;
-  border-color: #0587a1;
+  border-color: #79a4c7;
 }
 
 textarea.form-control {
@@ -509,7 +509,7 @@ textarea.form-control {
 
 .navbar .dropdown-item:active {
   color: #fff;
-  background-color: #0587a1;
+  background-color: #79a4c7;
 }
 
 .search-icon {
@@ -646,7 +646,7 @@ textarea.form-control {
 }
 
 .instagram-post ul a:hover {
-  color: #0587a1 !important;
+  color: #79a4c7 !important;
 }
 
 .instagram-post:hover::before {
@@ -662,7 +662,7 @@ textarea.form-control {
 /* homepage 2 */
 .hero-section {
   padding: 70px 0 0;
-  background-image: linear-gradient(#fff 45%, #43a6ba 0);
+  background-image: linear-gradient(#fff 45%, #679da8 0);
 }
 
 .dividers {
@@ -802,7 +802,7 @@ textarea.form-control {
 blockquote {
   font-style: italic;
   color: #000000;
-  background: #43a6ba;
+  background: #679da8;
   padding: 20px;
   font-weight: 600;
 }
@@ -850,7 +850,7 @@ blockquote {
 }
 
 .tag-list li a:hover {
-  color: #0587a1;
+  color: #79a4c7;
 }
 .instagram-slider{
   height: 200px;

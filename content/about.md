@@ -1,9 +1,10 @@
 ---
-date: "2019-05-14T14:46:10+06:00"
-description: This is meta description
+date: "2021-03-30T14:46:10+06:00"
+description: About
 image: images/author.jpg
 title: About
 ---
 
-### Hello, I’m **John Doe**
+### **Ben On Track**
 
+is a freelance writer and blogger, passionate by travels !

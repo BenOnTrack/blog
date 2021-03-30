@@ -16,7 +16,7 @@ outputs:
     - JSON
 params:
   address: Made with love in Toulouse
-  author: Ben On Track
+  author: BenOnTrack
   author_image: images/banner-img.png
   bio: I’m a Freelance Interactive Art Director based in France. Focusing across branding
     and identity, digital and print.
@@ -28,10 +28,6 @@ params:
   description: This is meta description
   email: BenOnTrack@gmail.com
   home: Home
-  instafeed:
-    access_token: IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn
-    enable: no
-  layout: '1'
   logo: images/logo_square_small.png
   logo_main : images/logo_main.png
   plugins:

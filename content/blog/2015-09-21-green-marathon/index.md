@@ -5,7 +5,7 @@ date: '2015-09-21'
 image: images/featured-post/green-marathon.jpg
 type: featured
 categories:
-  - South America
+  - America
 tags:
   - South America
   - Video

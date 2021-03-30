@@ -5,7 +5,7 @@ date: '2015-06-12'
 image: images/featured-post/french-guiana.jpg
 type: featured
 categories:
-  - South America
+  - America
 tags:
   - South America
   - Video

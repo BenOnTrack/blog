@@ -1,6 +1,6 @@
 ---
 categories:
-- South America
+- America
 date: "2012-08-05T14:46:10+06:00"
 description: Trip in Venezuela/Colombia
 image: images/featured-post/venezuela-colombia.jpg
@@ -17,6 +17,5 @@ Enjoy this little video summarising my trip with Julien to Venezuela and Colombi
 
 <div class"video-container">
 <iframe allow="autoplay; fullscreen" allowfullscreen="" frameborder="0" height="564" src="https://player.vimeo.com/video/194111799" width="640"></iframe></div>
-
 
 

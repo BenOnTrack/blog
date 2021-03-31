@@ -15,7 +15,6 @@ type: featured
 
 Enjoy this little video summarising my trip with Julien to Venezuela and Colombia in 2012!
 
-<div class"video-container">
-<iframe allow="autoplay; fullscreen" allowfullscreen="" frameborder="0" height="564" src="https://player.vimeo.com/video/194111799" width="640"></iframe></div>
+{{< vimeo 194111799 >}}
 
 

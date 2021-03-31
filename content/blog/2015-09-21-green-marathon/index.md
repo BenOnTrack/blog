@@ -14,6 +14,4 @@ tags:
 
 Enjoy this little video summarising our Green Marathon on the unfamous Molokoi trek in Cacao, French Guiana !
 
-<div class"video-container">
-<iframe allow="autoplay; fullscreen" allowfullscreen="" frameborder="0" height="564" src="https://player.vimeo.com/video/140169895" width="640"></iframe>
-</div>
+{{< vimeo 140169895 >}}

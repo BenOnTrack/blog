@@ -15,9 +15,7 @@ type: post
 
 Enjoy this little video summarizing my first trip in USA !
 
-<div class"video-container">
-<iframe allow="autoplay; fullscreen" allowfullscreen="" frameborder="0" height="360" src="https://player.vimeo.com/video/212492382" width="640"></iframe>
-</div>
+{{< vimeo 212492382 >}}
 
 
 

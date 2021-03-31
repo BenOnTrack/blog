@@ -13,6 +13,4 @@ tags:
 
 Enjoy this little video summarising my 3.5 years in French Guiana, working for the Space Center.
 
-<div class"video-container">
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/LcvMwxWQWUg" width="560"></iframe>
-</div>
+{{< youtube LcvMwxWQWUg >}}

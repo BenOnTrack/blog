@@ -7,8 +7,9 @@ languageCode: en-us
 title: BenOnTrack
 theme: parsa-hugo
 summaryLength: '20'
-paginate: 6
+paginate: 10
 googleAnalytics: ''
+disqusShortname: benontrack
 outputs:
   home:
     - HTML
@@ -21,6 +22,7 @@ params:
   bio: I’m a Freelance Interactive Art Director based in France. Focusing across branding
     and identity, digital and print.
   contact_form_action: '#'
+  gallery: "milanoR"
   cookies:
     enable: yes
     expire_days: 2

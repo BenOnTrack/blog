@@ -30,6 +30,18 @@
       </div>
       {{partial "sidebar.html" . }}
     </div>
+      {{ if .Params.gallery }}
+    <script src="/js/blueimp-gallery.min.js"></script>
+
+    <script>
+    blueimp.Gallery(
+    document.getElementById('links').getElementsByTagName('a'),{
+        container: '#blueimp-gallery-carousel',
+        carousel: true
+    });
+    </script>
+
+    {{ end }}
   </div>
 </section>
 <!-- /blog single -->

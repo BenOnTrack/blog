@@ -6,11 +6,47 @@
     <description>Recent content in Categories on BenOnTrack</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Sep 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://benontrack.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://benontrack.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Asia</title>
+      <link>https://benontrack.netlify.app/categories/asia/</link>
+      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://benontrack.netlify.app/categories/asia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tips</title>
+      <link>https://benontrack.netlify.app/categories/tips/</link>
+      <pubDate>Sat, 14 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://benontrack.netlify.app/categories/tips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Africa</title>
+      <link>https://benontrack.netlify.app/categories/africa/</link>
+      <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://benontrack.netlify.app/categories/africa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Europe</title>
+      <link>https://benontrack.netlify.app/categories/europe/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://benontrack.netlify.app/categories/europe/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>America</title>
       <link>https://benontrack.netlify.app/categories/america/</link>
-      <pubDate>Mon, 21 Sep 2015 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 20 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>https://benontrack.netlify.app/categories/america/</guid>
       <description></description>

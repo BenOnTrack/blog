@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Africa on BenOnTrack</title>
+    <link>https://benontrack.netlify.app/categories/africa/</link>
+    <description>Recent content in Africa on BenOnTrack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://benontrack.netlify.app/categories/africa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Morocco - The North</title>
+      <link>https://benontrack.netlify.app/blog/2019-02-02-morocco-the-north/</link>
+      <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://benontrack.netlify.app/blog/2019-02-02-morocco-the-north/</guid>
+      <description>This time we are ready to explore the crazy and busy moroccan medina.
+{{ &amp;lt; youtube FVj8mAGqa1o &amp;gt;}}</description>
+    </item>
+    
+  </channel>
+</rss>

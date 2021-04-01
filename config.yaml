@@ -21,7 +21,7 @@ params:
   author_image: images/banner-img.png
   bio: I’m a Freelance Interactive Art Director based in France. Focusing across branding
     and identity, digital and print.
-  contact_form_action: '#'
+  contact_form_action: 'mailto:benontrack@gmail.com'
   gallery: "milanoR"
   cookies:
     enable: yes
@@ -53,13 +53,13 @@ params:
   search: yes
   social:
     - icon: ti-facebook
-      url: 'https://www.facebook.com/benontrack'
+      url: '#https://www.facebook.com/benontrack'
     - icon: ti-twitter-alt
-      url: 'https://twitter.com/BenOnTrack'
+      url: '#https://twitter.com/BenOnTrack'
     - icon: ti-linkedin
-      url: 'https://www.linkedin.com/in/benjaminmodave/'
+      url: '#https://www.linkedin.com/in/benjaminmodave/'
     - icon: ti-github
-      url: 'https://github.com/BenOnTracks'
+      url: '#https://github.com/BenOnTracks'
 menu:
   main:
     - name: About

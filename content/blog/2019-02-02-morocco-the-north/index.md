@@ -2,7 +2,7 @@
 title: Morocco - The North
 author: BenOnTrack
 date: '2019-02-02'
-image: images/classic-post/morocco.jpg
+image: images/post/morocco.jpg
 type: post
 categories:
   - Africa
@@ -12,4 +12,4 @@ tags:
 
 This time we are ready to explore the crazy and busy moroccan medina.
 
-{{ < youtube FVj8mAGqa1o >}}
+{{< youtube FVj8mAGqa1o >}}

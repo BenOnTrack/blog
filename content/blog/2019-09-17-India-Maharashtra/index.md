@@ -1,8 +1,8 @@
 ---
-title: 'India - Maharashtra'
+title: India - Maharashtra
 author: BenOnTrack
 date: '2019-09-17'
-image: images/classic-post/maharashtra.jpg
+image: images/post/maharashtra.jpg
 type: post
 categories:
   - Asia

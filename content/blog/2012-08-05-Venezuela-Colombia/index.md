@@ -3,7 +3,7 @@ categories:
 - America
 date: "2012-08-05T14:46:10+06:00"
 description: Trip in Venezuela/Colombia
-image: images/featured-post/venezuela-colombia.jpg
+image: images/post/venezuela-colombia.jpg
 tags:
 - South America
 - Video

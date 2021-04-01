@@ -2,7 +2,7 @@
 title: India - Goa
 author: BenOnTrack
 date: '2019-09-17'
-image: images/classic-post/goa.jpg
+image: images/post/goa.jpg
 type: post
 categories:
   - Asia

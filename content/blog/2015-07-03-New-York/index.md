@@ -4,7 +4,7 @@ categories:
 date: "2015-07-03"
 author: BenOnTrack
 description: New York
-image: images/classic-post/new-york.jpg
+image: images/post/new-york.jpg
 tags:
 - USA
 - Video

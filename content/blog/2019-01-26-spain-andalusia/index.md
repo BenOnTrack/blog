@@ -2,7 +2,7 @@
 title: Spain - Andalusia
 author: BenOnTrack
 date: '2019-01-26'
-image: images/classic-post/andalusia.jpg
+image: images/post/andalusia.jpg
 type: post
 categories:
   - Europe
@@ -14,4 +14,4 @@ We have decided to plan a small trip to Andalusia from 22nd to 27th of January a
 
 Starting from Sevilla, we'll reach Grenada and Cordobá.
 
-{{ < youtube uQUGTgI9e7g >}}
+{{< youtube uQUGTgI9e7g >}}

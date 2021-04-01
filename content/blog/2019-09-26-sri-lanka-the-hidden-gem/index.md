@@ -2,7 +2,7 @@
 title: Sri Lanka - The hidden gem
 author: BenOnTrack
 date: '2019-09-26'
-image: images/featured-post/sri-lanka.png
+image: images/post/sri-lanka.jpg
 type: featured
 categories:
   - Asia

@@ -2,7 +2,7 @@
 title: India - Kerala
 author: BenOnTrack
 date: '2019-09-18'
-image: images/classic-post/kerala.jpg
+image: images/post/kerala.jpg
 type: post
 categories:
   - Asia

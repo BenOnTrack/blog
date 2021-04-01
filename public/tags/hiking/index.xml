@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hiking on BenOnTrack</title>
+    <link>https://benontrack.netlify.app/tags/hiking/</link>
+    <description>Recent content in Hiking on BenOnTrack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://benontrack.netlify.app/tags/hiking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Singalila Ridge Trek</title>
+      <link>https://benontrack.netlify.app/blog/2019-11-15-singalila-ridge-trek/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://benontrack.netlify.app/blog/2019-11-15-singalila-ridge-trek/</guid>
+      <description>The Story I’ve spent the last 2 days in Darjeeling, hoping from travel agency to travel agency seeking for any other hikers interested to trek within Singalila National Park but in vain.</description>
+    </item>
+    
+    <item>
+      <title>Nepal - The Annapurna circuit</title>
+      <link>https://benontrack.netlify.app/blog/2019-11-08-nepal-the-annapurna-circuit/</link>
+      <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://benontrack.netlify.app/blog/2019-11-08-nepal-the-annapurna-circuit/</guid>
+      <description>The Circuit After a few more days spent in Varanasi, I&amp;rsquo;ve decided to reach Nepal to start my hiking journey since the high season is already on.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,7 +2,7 @@
 title: French Guiana
 author: BenOnTrack
 date: '2015-06-12'
-image: images/featured-post/french-guiana.jpg
+image: images/post/french-guiana.jpg
 type: featured
 categories:
   - America

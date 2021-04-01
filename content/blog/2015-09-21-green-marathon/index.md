@@ -2,7 +2,7 @@
 title: The Green Marathon
 author: BenOnTrack
 date: '2015-09-21'
-image: images/featured-post/green-marathon.jpg
+image: images/post/green-marathon.jpg
 type: featured
 categories:
   - America

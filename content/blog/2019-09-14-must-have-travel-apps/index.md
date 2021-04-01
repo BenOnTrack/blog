@@ -2,7 +2,7 @@
 title: Must-Have travel apps !
 author: BenOnTrack
 date: '2019-09-14'
-image: images/featured-post/Mobile-App.png
+image: images/post/Mobile-App.png
 type: featured
 categories:
   - Tips

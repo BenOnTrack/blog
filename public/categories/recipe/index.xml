@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recipe on BenOnTrack</title>
+    <link>https://benontrack.netlify.app/categories/recipe/</link>
+    <description>Recent content in Recipe on BenOnTrack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Oct 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://benontrack.netlify.app/categories/recipe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aloo Gobi recipe</title>
+      <link>https://benontrack.netlify.app/blog/2019-10-05-aloo-gobi-recipe/</link>
+      <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://benontrack.netlify.app/blog/2019-10-05-aloo-gobi-recipe/</guid>
+      <description>I have attended a cooking class in Udaipur, Rajasthan, that I am willing to share with you ! You will learn how to cook one of my favorite indian dish : Aloo Gobi.</description>
+    </item>
+    
+  </channel>
+</rss>

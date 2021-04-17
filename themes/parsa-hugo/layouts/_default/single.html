@@ -26,20 +26,20 @@
         </ul>
         <article class="content">
           {{.Content}}
-    {{ if .Params.gallery }}
-    <p>Coucou les gars</p>
-    
-    {{ partial "gallery.html" . }}
-
-    <script>
-    blueimp.Gallery(
-    document.getElementById('links').getElementsByTagName('a'),{
-        container: '#blueimp-gallery-carousel',
-        carousel: true
-    });
-    </script>
-    {{ end }}
         </article>
+        <div>
+        {{ if .Params.gallery }}
+        {{ partial "gallery.html" . }}
+
+        <script>
+        blueimp.Gallery(
+        document.getElementById('links').getElementsByTagName('a'),{
+            container: '#blueimp-gallery-carousel',
+            carousel: true
+        });
+        </script>
+        {{ end }}
+        </div>
       </div>
       {{partial "sidebar.html" . }}
 

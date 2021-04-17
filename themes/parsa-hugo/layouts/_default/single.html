@@ -26,12 +26,9 @@
         </ul>
         <article class="content">
           {{.Content}}
-        </article>
-      </div>
-      {{partial "sidebar.html" . }}
-    </div>
-      {{ if .Params.gallery }}
-    <script src="/js/blueimp-gallery.min.js"></script>
+    {{ if .Params.gallery }}
+    <p>Coucou les gars</p>
+    {{ partial "gallery.html" . }}
 
     <script>
     blueimp.Gallery(
@@ -40,8 +37,13 @@
         carousel: true
     });
     </script>
-
+    
     {{ end }}
+        </article>
+      </div>
+      {{partial "sidebar.html" . }}
+
+    </div>
   </div>
 </section>
 <!-- /blog single -->

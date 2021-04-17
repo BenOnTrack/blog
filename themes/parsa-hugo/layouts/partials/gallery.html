@@ -1,5 +1,6 @@
 {{ if .Params.gallery }}
 
+
 <div id="blueimp-gallery-carousel" class="blueimp-gallery blueimp-gallery-carousel">
     <div class="slides"></div>
     <h3 class="title"></h3>
@@ -12,10 +13,10 @@
 <div id="links">
 
   {{ $gallery := .Params.gallery }}
-  {{ $sourcePath := ( printf "static/img/gallery/%s" $gallery ) }}
+  {{ $sourcePath := ( printf "static/images/gallery/%s" $gallery ) }}
   {{ $files := readDir $sourcePath }}
   {{ range $files }}
-    <a href="/img/gallery/{{ $gallery }}/{{ .Name }}"></a>
+    <a href="/images/gallery/{{ $gallery }}/{{ .Name }}"></a>
   {{ end }}
 
 </div>

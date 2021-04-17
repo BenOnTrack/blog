@@ -22,7 +22,6 @@ params:
   bio: I’m a Freelance Interactive Art Director based in France. Focusing across branding
     and identity, digital and print.
   contact_form_action: 'mailto:benontrack@gmail.com'
-  gallery: "milanoR"
   cookies:
     enable: yes
     expire_days: 2
@@ -49,6 +48,7 @@ params:
       - link: plugins/search/fuse.min.js
       - link: plugins/search/mark.js
       - link: plugins/search/search.js
+      - link: plugins/blueimp/blueimp-gallery.min.js
   preloader: yes
   search: yes
   social:
@@ -62,9 +62,23 @@ params:
       url: '#https://github.com/BenOnTracks'
 menu:
   main:
-    - name: About
-      url: about
+    - name: europe
+      url: categories/europe/
       weight: 1
+    - name: america
+      url: categories/america/
+      weight: 2
+    - name: asia
+      url: categories/asia/
+      weight: 3
+    - name: africa
+      url: categories/africa/
+      weight: 4
+    - name: Itinerary
+      url: map
+      weight: 5
     - name: Contact
       url: contact
-      weight: 2
+      weight: 6
+
+      

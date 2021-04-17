@@ -3,6 +3,7 @@ title: Spain - Andalusia
 author: BenOnTrack
 date: '2019-01-26'
 image: images/post/andalusia.jpg
+gallery: 'test'
 type: post
 categories:
   - Europe

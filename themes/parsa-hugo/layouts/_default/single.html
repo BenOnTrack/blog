@@ -26,7 +26,10 @@
         </ul>
         <article class="content">
           {{.Content}}
-    {{ if .Params.gallery }}
+    
+        </article>
+        
+        {{ if .Params.gallery }}
     <p>Coucou les gars</p>
     
     {{ partial "gallery.html" . }}
@@ -40,7 +43,7 @@
     </script>
     
     {{ end }}
-        </article>
+    
       </div>
       {{partial "sidebar.html" . }}
 

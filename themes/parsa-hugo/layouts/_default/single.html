@@ -26,10 +26,7 @@
         </ul>
         <article class="content">
           {{.Content}}
-    
-        </article>
-        
-        {{ if .Params.gallery }}
+    {{ if .Params.gallery }}
     <p>Coucou les gars</p>
     
     {{ partial "gallery.html" . }}
@@ -41,9 +38,8 @@
         carousel: true
     });
     </script>
-    
     {{ end }}
-    
+        </article>
       </div>
       {{partial "sidebar.html" . }}
 

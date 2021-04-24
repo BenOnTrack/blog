@@ -1,15 +1,33 @@
 {{ if .Params.gallery }}
 
-<script src="/plugins/blueimp/blueimp-gallery.min.js"></script>
-
-<div id="blueimp-gallery-carousel" class="blueimp-gallery blueimp-gallery-carousel">
-    <div class="slides"></div>
-    <h3 class="title"></h3>
-    <a class="prev">‹</a>
-    <a class="next">›</a>
-    <a class="play-pause"></a>
-    <ol class="indicator"></ol>
+<!-- The Gallery as inline carousel, can be positioned anywhere on the page -->
+<div
+  id="blueimp-gallery-carousel"
+  class="blueimp-gallery blueimp-gallery-carousel"
+  aria-label="image carousel"
+>
+  <div class="slides" aria-live="off"></div>
+  <h3 class="title"></h3>
+  <a
+    class="prev"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="previous slide"
+  ></a>
+  <a
+    class="next"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="next slide"
+  ></a>
+  <a
+    class="play-pause"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="play slideshow"
+    aria-pressed="true"
+    role="button"
+  ></a>
+  <ol class="indicator"></ol>
 </div>
+<script src="{{ site.BaseURL }}plugins/blueimp/blueimp-gallery.min.js"></script>
 
 <div id="links">
 
@@ -17,7 +35,7 @@
   {{ $sourcePath := ( printf "static/images/gallery/%s" $gallery ) }}
   {{ $files := readDir $sourcePath }}
   {{ range $files }}
-    <a href="/images/gallery/{{ $gallery }}/{{ .Name }}"></a>
+    <a href="{{ site.BaseURL }}images/gallery/{{ $gallery }}/{{ .Name }}"></a>
   {{ end }}
 
 </div>

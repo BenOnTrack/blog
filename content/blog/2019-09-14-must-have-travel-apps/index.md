@@ -12,7 +12,7 @@ tags:
 
 Discover the must-have apps any traveler should have on his/her smartphone...
 
-<b>Maps.me - Find your way!</b>
+### Maps.me - Find your way!
 
 <img src="images/Mapsme_logo.png" alt="MapsMe" width="75px"/>
 
@@ -27,7 +27,7 @@ It's a powerful app I've been using the last 7 years and today I couldn't travel
 
 #Tip : most of the treks or paths have been added by the OSM community making this app a must-have for trekking abroad !
 
-<b>GoogleDrive - Save your documents !</b>
+### GoogleDrive - Save your documents !
 
 <img src="images/Google_Drive_logo.png" alt="GoogleDrive" width="75px"/>
 
@@ -37,7 +37,7 @@ Your first 15 GB of storage are free with a Google account!
 
 #Tip : make your important documents (passport, Bank account number,…) available offline to be able to access them anywhere at anytime.
 
-<b> Revolut - Spend your money (wisely) ! </b>
+### Revolut - Spend your money (wisely) ! 
 
 <img src="images/Revolut_logo.png" alt="Revolut" width="75px"/>
 
@@ -50,7 +50,7 @@ You can use my code to get a free card by signing with https://revolut.com/refer
 
 #Tip : link your current bank account on Revolut and you won't ever need to connect to your bank to transfer money : one click and your Revolut is re-charged!
 
-<b>Tricount : Organise your group expense !</b>
+### Tricount : Organise your group expense !
 
 <img src="images/Tricount_logo.png" alt="Tricount" width="75px"/>
 
@@ -58,7 +58,7 @@ Tricount will simplify your group expense in the most easy way : just fill in wh
 
 #Tip : share your tricount expenses with friends so that everyone can fill in his/her expenses 
 
-<b> Evernote : Share your thoughts ! </b>
+### Evernote : Share your thoughts ! 
 
 <img src="images/Evernote_logo.png" alt="Evernote" width="75px"/>
 
@@ -66,7 +66,7 @@ Evernote is the ultime app to store your notes, to-do lists, check lists, and ev
 
 #Tip : with a free account you can sync 2 devices - perfect to start a note on your smartphone and finish it later on your laptop 
 
-<b> Polarsteps - Share your pics ! </b>
+### Polarsteps - Share your pics ! 
 
 <img src="images/Polarsteps_logo.png" alt="Polarsteps" width="75px"/>
 

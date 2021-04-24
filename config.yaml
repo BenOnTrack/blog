@@ -36,6 +36,7 @@ params:
       - link: plugins/bootstrap/bootstrap.min.css
       - link: plugins/slick/slick.css
       - link: plugins/themify-icons/themify-icons.css
+      - link : plugins/blueimp/blueimp-gallery.min.css
     js:
       - link: plugins/jQuery/jquery.min.js
       - link: plugins/bootstrap/bootstrap.min.js
@@ -48,7 +49,6 @@ params:
       - link: plugins/search/fuse.min.js
       - link: plugins/search/mark.js
       - link: plugins/search/search.js
-      - link: plugins/blueimp/blueimp-gallery.min.js
   preloader: yes
   search: yes
   social:

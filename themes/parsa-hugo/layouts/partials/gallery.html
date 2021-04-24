@@ -1,4 +1,3 @@
-{{ if .Params.gallery }}
 
 <!-- The Gallery as inline carousel, can be positioned anywhere on the page -->
 <div
@@ -39,4 +38,24 @@
   {{ end }}
 
 </div>
-{{ end }}
+
+<div>
+  <script>
+  document.getElementById('links').onclick = function (event) {
+    event = event || window.event
+    var target = event.target || event.srcElement
+    var link = target.src ? target.parentNode : target
+    var options = { index: link, event: event }
+    var links = this.getElementsByTagName('a')
+    blueimp.Gallery(links, options)
+  }
+</script>
+
+<script>
+  blueimp.Gallery(document.getElementById('links').getElementsByTagName('a'), {
+    container: '#blueimp-gallery-carousel',
+    carousel: true
+  })
+</script>
+  
+</div>

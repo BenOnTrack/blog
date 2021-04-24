@@ -240,9 +240,6 @@ We won't take the full ride up to Ella (7hours) but we will stop instead in Nuwa
 
 We have visited Pedro Tea Factory, trying to understand the tea process and fabrication, but the main reason we came in Nuwara Eliya was to hike the Horton Plains National Park and its famous "World's End" hike (under the mist in this cloud forest)!
 
-<iframe allowfullscreen="" frameborder="0" height="300px" src="https://www.strava.com/activities/2736270407/embed/9ca4c2df05144e08c7639d52be4e32280e7da9dc" width="100%"></iframe>
-
-
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/yNFyQjhof1gYXZnS6"

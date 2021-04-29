@@ -34,7 +34,7 @@
   {{ $sourcePath := ( printf "static/images/gallery/%s" $gallery ) }}
   {{ $files := readDir $sourcePath }}
   {{ range $files }}
-    <a href="{{ site.BaseURL }}images/gallery/{{ $gallery }}/{{ .Name }}"></a>
+    <a href="{{ site.BaseURL }}/images/gallery/{{ $gallery }}/{{ .Name }}"></a>
   {{ end }}
 
 </div>

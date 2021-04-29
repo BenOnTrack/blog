@@ -30,6 +30,60 @@ We left Kathmandu with the 7am bus to Besisahar. The bus was supposed to take 7h
 
 We stayed in Manang Hotel (it’s a teahouse) : the place is very typical, with small wooden room and outdoor shared bathroom. The host was nice and helpful and we helped him to add his teahouse on OpenStreetMap.
 
+
+<!-- Gallery -->
+<div
+  id="gallery1"
+  class="blueimp-gallery blueimp-gallery-carousel"
+  aria-label="image carousel">
+  <div class="slides" aria-live="off"></div>
+  <h3 class="title"></h3>
+  <a
+    class="prev"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="previous slide"></a>
+  <a
+    class="next"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="next slide"></a>
+  <a
+    class="play-pause"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="play slideshow"
+    aria-pressed="true"
+    role="button"></a>
+  <ol class="indicator"></ol>
+</div>
+
+<script src="/plugins/blueimp/blueimp-gallery.min.js"></script>
+
+<div id="gallery1_links">
+    <a href="/images/gallery/nepal/day1/Picture1.jpg"></a>
+    <a href="/images/gallery/nepal/day1/Picture2.jpg"></a>
+</div>
+
+<div>
+
+  <script>
+  document.getElementById('gallery1_links').onclick = function (event) {
+    event = event || window.event
+    var target = event.target || event.srcElement
+    var link = target.src ? target.parentNode : target
+    var options = { index: link, event: event }
+    var links = this.getElementsByTagName('a')
+    blueimp.Gallery(links, options)
+  }
+</script>
+
+<script>
+  blueimp.Gallery(document.getElementById('gallery1_links').getElementsByTagName('a'), {
+    container: '#gallery1',
+    carousel: true
+  })
+</script>
+</div>
+
+
 Distance : 9 km
 Elevation : 365m+
 Time : 2h30
@@ -42,6 +96,83 @@ Hot shower
 what we found at «Mont Blanc» hotel.
 The view was nice and we met some nice people but still most of the tea houses were pretty empty for this high season.
 
+<!-- Gallery -->
+<div
+  id="gallery2"
+  class="blueimp-gallery blueimp-gallery-carousel"
+  aria-label="image carousel">
+  <div class="slides" aria-live="off"></div>
+  <h3 class="title"></h3>
+  <a
+    class="prev"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="previous slide"></a>
+  <a
+    class="next"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="next slide"></a>
+  <a
+    class="play-pause"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="play slideshow"
+    aria-pressed="true"
+    role="button"></a>
+  <ol class="indicator"></ol>
+</div>
+
+<script src="/plugins/blueimp/blueimp-gallery.min.js"></script>
+
+<div id="gallery2_links">
+    <a href="/images/gallery/nepal/day2/Picture1.jpg"></a>
+    <a href="/images/gallery/nepal/day2/Picture2.jpg"></a>
+    <a href="/images/gallery/nepal/day2/Picture3.jpg"></a>
+    <a href="/images/gallery/nepal/day2/Picture4.jpg"></a>
+    <a href="/images/gallery/nepal/day2/Picture5.jpg"></a>
+    <a href="/images/gallery/nepal/day2/Picture6.jpg"></a>
+    <a href="/images/gallery/nepal/day2/Picture7.jpg"></a>
+    <a href="/images/gallery/nepal/day2/Picture8.jpg"></a>
+    <a href="/images/gallery/nepal/day2/Picture9.jpg"></a>
+    <a href="/images/gallery/nepal/day2/Picture10.jpg"></a>
+    <a href="/images/gallery/nepal/day2/Picture11.jpg"></a>
+    <a href="/images/gallery/nepal/day2/Picture12.jpg"></a>
+    <a href="/images/gallery/nepal/day2/Picture13.jpg"></a>
+    <a href="/images/gallery/nepal/day2/Picture14.jpg"></a>
+    <a href="/images/gallery/nepal/day2/Picture15.jpg"></a>
+    <a href="/images/gallery/nepal/day2/Picture16.jpg"></a>
+    <a href="/images/gallery/nepal/day2/Picture17.jpg"></a>
+    <a href="/images/gallery/nepal/day2/Picture18.jpg"></a>
+    <a href="/images/gallery/nepal/day2/Picture19.jpg"></a>
+    <a href="/images/gallery/nepal/day2/Picture20.jpg"></a>
+    <a href="/images/gallery/nepal/day2/Picture21.jpg"></a>
+    <a href="/images/gallery/nepal/day2/Picture22.jpg"></a>
+    <a href="/images/gallery/nepal/day2/Picture23.jpg"></a>
+    <a href="/images/gallery/nepal/day2/Picture24.jpg"></a>
+    <a href="/images/gallery/nepal/day2/Picture25.jpg"></a>
+    <a href="/images/gallery/nepal/day2/Picture26.jpg"></a>
+    <a href="/images/gallery/nepal/day2/Picture27.jpg"></a>
+    <a href="/images/gallery/nepal/day2/Picture28.jpg"></a>
+</div>
+
+<div>
+
+  <script>
+  document.getElementById('gallery2_links').onclick = function (event) {
+    event = event || window.event
+    var target = event.target || event.srcElement
+    var link = target.src ? target.parentNode : target
+    var options = { index: link, event: event }
+    var links = this.getElementsByTagName('a')
+    blueimp.Gallery(links, options)
+  }
+</script>
+
+<script>
+  blueimp.Gallery(document.getElementById('gallery2_links').getElementsByTagName('a'), {
+    container: '#gallery2',
+    carousel: true
+  })
+</script>
+</div>
 
 Distance : 21 km
 Elevation : 1150m+

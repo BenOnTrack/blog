@@ -31,10 +31,11 @@
         {{ if .Params.gallery }}
         {{ partial "gallery.html" . }}
         {{ end }}
+        {{partial "disqus.html" . }}
         </div>
       </div>
       {{partial "sidebar.html" . }}
-
+      
     </div>
   </div>
 </section>

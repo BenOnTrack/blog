@@ -3,6 +3,7 @@ title: Penang - The Pearl of the Orient
 author: BenOnTrack
 date: '2019-11-28'
 image: images/post/penang.jpg
+gallery : 'penang'
 type: featured
 categories:
   - Asia

@@ -25,7 +25,7 @@ params:
   cookies:
     enable: yes
     expire_days: 2
-  copyright: Copyright &copy; 2020 a theme by themefisher.com
+  copyright: Copyright &copy; 2021 a theme by BenOnTrack
   description: This is meta description
   email: BenOnTrack@gmail.com
   home: Home
@@ -53,13 +53,13 @@ params:
   search: yes
   social:
     - icon: ti-facebook
-      url: '#https://www.facebook.com/benontrack'
+      url: 'https://www.facebook.com/benontrack'
     - icon: ti-twitter-alt
-      url: '#https://twitter.com/BenOnTrack'
+      url: 'https://twitter.com/BenOnTrack'
     - icon: ti-linkedin
-      url: '#https://www.linkedin.com/in/benjaminmodave/'
+      url: 'https://www.linkedin.com/in/benjaminmodave/'
     - icon: ti-github
-      url: '#https://github.com/BenOnTracks'
+      url: 'https://github.com/BenOnTrack'
 menu:
   main:
     - name: europe

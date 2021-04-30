@@ -24,7 +24,7 @@ Our 15 days circuit started at Besisahar and ended at Ghandruk, in the Himalaya.
 
 {{< vimeo 386014222 >}}
 
-### Day 1 : Besisahar - Bhulbhule
+#### Day 1 : Besisahar - Bhulbhule
 
 We left Kathmandu with the 7am bus to Besisahar. The bus was supposed to take 7h to travel the 175km route but with the traffic jam in the valley we only arrived by 4pm. We decided to walk straight  (instead of taking the bus) to reach Bhulbhule before night.
 
@@ -88,7 +88,7 @@ Distance : 9 km
 Elevation : 365m+
 Time : 2h30
 
-### Day 2 : Bhulbhule - Jagat
+#### Day 2 : Bhulbhule - Jagat
 For our first full hiking day, our goal was to reach Ghermu. The landscape was a beautiful mix of rice fields and waterfalls ! That gave us enough energy to continue a little bit further and we finally decided to settle in Jagat. As soon as we arrived we had been approached by a lot of hosts asking us to stay in their property, so we just started to prepare a list of “requirements” for our next tea house :
 free room if we eat dinner and breakfast
 Sitting toilet 
@@ -178,7 +178,7 @@ Distance : 21 km
 Elevation : 1150m+
 Time : 8h30
 
-### Day 3 : Jagat - Danagyu
+#### Day 3 : Jagat - Danagyu
 Another quiet day enjoying the landscape, more waterfalls and more bridges above the  river. 
 
 We have crossed a lot of tiny typical villages, up in the mountains, experiencing our first Nepalese stairs.
@@ -187,20 +187,153 @@ On the way to Danagyu a Nepalese woman told us to stay at Annapurna hotel, what 
 
 The place was really nice and we met a couple of Chilean travelling with an Argentinian guy that they met on their way.
 
+<!-- Gallery -->
+<div
+  id="gallery3"
+  class="blueimp-gallery blueimp-gallery-carousel"
+  aria-label="image carousel">
+  <div class="slides" aria-live="off"></div>
+  <h3 class="title"></h3>
+  <a
+    class="prev"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="previous slide"></a>
+  <a
+    class="next"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="next slide"></a>
+  <a
+    class="play-pause"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="play slideshow"
+    aria-pressed="true"
+    role="button"></a>
+  <ol class="indicator"></ol>
+</div>
+
+<script src="/plugins/blueimp/blueimp-gallery.min.js"></script>
+
+<div id="gallery3_links">
+    <a href="/images/gallery/nepal/day3/Picture1.jpg"></a>
+    <a href="/images/gallery/nepal/day3/Picture2.jpg"></a>
+    <a href="/images/gallery/nepal/day3/Picture3.jpg"></a>
+    <a href="/images/gallery/nepal/day3/Picture4.jpg"></a>
+    <a href="/images/gallery/nepal/day3/Picture5.jpg"></a>
+    <a href="/images/gallery/nepal/day3/Picture6.jpg"></a>
+    <a href="/images/gallery/nepal/day3/Picture7.jpg"></a>
+    <a href="/images/gallery/nepal/day3/Picture8.jpg"></a>
+    <a href="/images/gallery/nepal/day3/Picture9.jpg"></a>
+    <a href="/images/gallery/nepal/day3/Picture10.jpg"></a>
+    <a href="/images/gallery/nepal/day3/Picture11.jpg"></a>
+    <a href="/images/gallery/nepal/day3/Picture12.jpg"></a>
+    <a href="/images/gallery/nepal/day3/Picture13.jpg"></a>
+    <a href="/images/gallery/nepal/day3/Picture14.jpg"></a>
+    <a href="/images/gallery/nepal/day3/Picture15.jpg"></a>
+    <a href="/images/gallery/nepal/day3/Picture16.jpg"></a>
+    <a href="/images/gallery/nepal/day3/Picture17.jpg"></a>
+</div>
+
+<div>
+
+  <script>
+  document.getElementById('gallery3_links').onclick = function (event) {
+    event = event || window.event
+    var target = event.target || event.srcElement
+    var link = target.src ? target.parentNode : target
+    var options = { index: link, event: event }
+    var links = this.getElementsByTagName('a')
+    blueimp.Gallery(links, options)
+  }
+</script>
+
+<script>
+  blueimp.Gallery(document.getElementById('gallery3_links').getElementsByTagName('a'), {
+    container: '#gallery3',
+    carousel: true
+  })
+</script>
+</div>
 
 Distance : 25 km
 Elevation : 1000m+
 Time : 9h
 
-### Day 4 : Danagyu - Upper Pisang
+#### Day 4 : Danagyu - Upper Pisang
 
 Probably the best day hike for the scenery! We met a lot of trekkers walking on the main road while we walked, alone, on amazing remote trails on the other side of the river. It was one of our longest and most wonderful day!
+
+<!-- Gallery -->
+<div
+  id="gallery4"
+  class="blueimp-gallery blueimp-gallery-carousel"
+  aria-label="image carousel">
+  <div class="slides" aria-live="off"></div>
+  <h3 class="title"></h3>
+  <a
+    class="prev"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="previous slide"></a>
+  <a
+    class="next"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="next slide"></a>
+  <a
+    class="play-pause"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="play slideshow"
+    aria-pressed="true"
+    role="button"></a>
+  <ol class="indicator"></ol>
+</div>
+
+<script src="/plugins/blueimp/blueimp-gallery.min.js"></script>
+
+<div id="gallery4_links">
+    <a href="/images/gallery/nepal/day4/Picture1.jpg"></a>
+    <a href="/images/gallery/nepal/day4/Picture2.jpg"></a>
+    <a href="/images/gallery/nepal/day4/Picture3.jpg"></a>
+    <a href="/images/gallery/nepal/day4/Picture4.jpg"></a>
+    <a href="/images/gallery/nepal/day4/Picture5.jpg"></a>
+    <a href="/images/gallery/nepal/day4/Picture6.jpg"></a>
+    <a href="/images/gallery/nepal/day4/Picture7.jpg"></a>
+    <a href="/images/gallery/nepal/day4/Picture8.jpg"></a>
+    <a href="/images/gallery/nepal/day4/Picture9.jpg"></a>
+    <a href="/images/gallery/nepal/day4/Picture10.jpg"></a>
+    <a href="/images/gallery/nepal/day4/Picture11.jpg"></a>
+    <a href="/images/gallery/nepal/day4/Picture12.jpg"></a>
+    <a href="/images/gallery/nepal/day4/Picture13.jpg"></a>
+    <a href="/images/gallery/nepal/day4/Picture14.jpg"></a>
+    <a href="/images/gallery/nepal/day4/Picture15.jpg"></a>
+    <a href="/images/gallery/nepal/day4/Picture16.jpg"></a>
+    <a href="/images/gallery/nepal/day4/Picture17.jpg"></a>
+</div>
+
+<div>
+
+  <script>
+  document.getElementById('gallery4_links').onclick = function (event) {
+    event = event || window.event
+    var target = event.target || event.srcElement
+    var link = target.src ? target.parentNode : target
+    var options = { index: link, event: event }
+    var links = this.getElementsByTagName('a')
+    blueimp.Gallery(links, options)
+  }
+</script>
+
+<script>
+  blueimp.Gallery(document.getElementById('gallery4_links').getElementsByTagName('a'), {
+    container: '#gallery4',
+    carousel: true
+  })
+</script>
+</div>
 
 Distance : 29 km
 Elevation : 800m+
 Time : 10h
 
-### Day 5 : Upper Pisang - Manang
+#### Day 5 : Upper Pisang - Manang
 After a good night rest, our target was Manang and its high altitude (3700m) before experiencing hiking above 4000m.
 
 The hike was just lovely and to my opinion the best on this part of the Annapurna circuit, as it mostly went far away from the road to more remote villages.
@@ -211,29 +344,151 @@ The way down was lovely too in the dusty forest, surrounded by yaks and cows. We
 
 We tried our “requirement” list again and found a dodgy hotel that offered us the room for free but they didn’t have plugs nor hot shower so we didn’t stay there the second night.
 
+<!-- Gallery -->
+<div
+  id="gallery5"
+  class="blueimp-gallery blueimp-gallery-carousel"
+  aria-label="image carousel">
+  <div class="slides" aria-live="off"></div>
+  <h3 class="title"></h3>
+  <a
+    class="prev"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="previous slide"></a>
+  <a
+    class="next"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="next slide"></a>
+  <a
+    class="play-pause"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="play slideshow"
+    aria-pressed="true"
+    role="button"></a>
+  <ol class="indicator"></ol>
+</div>
+
+<script src="/plugins/blueimp/blueimp-gallery.min.js"></script>
+
+<div id="gallery5_links">
+    <a href="/images/gallery/nepal/day5/Picture1.jpg"></a>
+    <a href="/images/gallery/nepal/day5/Picture2.jpg"></a>
+    <a href="/images/gallery/nepal/day5/Picture3.jpg"></a>
+    <a href="/images/gallery/nepal/day5/Picture4.jpg"></a>
+    <a href="/images/gallery/nepal/day5/Picture5.jpg"></a>
+    <a href="/images/gallery/nepal/day5/Picture6.jpg"></a>
+    <a href="/images/gallery/nepal/day5/Picture7.jpg"></a>
+    <a href="/images/gallery/nepal/day5/Picture8.jpg"></a>
+    <a href="/images/gallery/nepal/day5/Picture9.jpg"></a>
+    <a href="/images/gallery/nepal/day5/Picture10.jpg"></a>
+    <a href="/images/gallery/nepal/day5/Picture11.jpg"></a>
+    <a href="/images/gallery/nepal/day5/Picture12.jpg"></a>
+    <a href="/images/gallery/nepal/day5/Picture13.jpg"></a>
+    <a href="/images/gallery/nepal/day5/Picture14.jpg"></a>
+    <a href="/images/gallery/nepal/day5/Picture15.jpg"></a>
+</div>
+
+<div>
+
+  <script>
+  document.getElementById('gallery5_links').onclick = function (event) {
+    event = event || window.event
+    var target = event.target || event.srcElement
+    var link = target.src ? target.parentNode : target
+    var options = { index: link, event: event }
+    var links = this.getElementsByTagName('a')
+    blueimp.Gallery(links, options)
+  }
+</script>
+
+<script>
+  blueimp.Gallery(document.getElementById('gallery5_links').getElementsByTagName('a'), {
+    container: '#gallery5',
+    carousel: true
+  })
+</script>
+</div>
+
 Distance : 23 km
 Elevation : 1000m+
 Time : 09h00
 
-### Day 6 : Acclimatization in Manang
+#### Day 6 : Acclimatization in Manang
 After checking a few places we ended up in Moonlight Hotel and absolutely did ... nothing but resting all day.
 
 I was still looking for a sleeping bag but finally decided I could make the trip without as you can get extra blanket for a few fee, but the nights being colder and colder I decided to invest in a Nepalese gloves made of yak wool and a neck scarf (those would save my life a few days later)
 
 Otherwise we spent the day in our little balcony of Moonlight Hotel enjoying the sun and the lively town of Manang.
 
-### Day 7 : Manang - Tilicho Base Camp
+
+#### Day 7 : Manang - Tilicho Base Camp
 We woke up a bit before 6am but our breakfast wasn’t ready so we left Manang by 6.45am.
 
 We really appreciated the hike through Lower-Mid-Upper Khangsar as we didn’t meet anyone on our way but after was not really the same as the hike was mostly on the landslide.
 
 Arrived in Tilicho Base Camp by noon, the place was horrible, full of people and no more room available. We managed to find a room (expensive) and really rustic and cold but still better than nothing.
 
+<!-- Gallery -->
+<div
+  id="gallery7"
+  class="blueimp-gallery blueimp-gallery-carousel"
+  aria-label="image carousel">
+  <div class="slides" aria-live="off"></div>
+  <h3 class="title"></h3>
+  <a
+    class="prev"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="previous slide"></a>
+  <a
+    class="next"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="next slide"></a>
+  <a
+    class="play-pause"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="play slideshow"
+    aria-pressed="true"
+    role="button"></a>
+  <ol class="indicator"></ol>
+</div>
+
+<script src="/plugins/blueimp/blueimp-gallery.min.js"></script>
+
+<div id="gallery7_links">
+    <a href="/images/gallery/nepal/day7/Picture1.jpg"></a>
+    <a href="/images/gallery/nepal/day7/Picture2.jpg"></a>
+    <a href="/images/gallery/nepal/day7/Picture3.jpg"></a>
+    <a href="/images/gallery/nepal/day7/Picture4.jpg"></a>
+    <a href="/images/gallery/nepal/day7/Picture5.jpg"></a>
+    <a href="/images/gallery/nepal/day7/Picture6.jpg"></a>
+</div>
+
+<div>
+
+  <script>
+  document.getElementById('gallery7_links').onclick = function (event) {
+    event = event || window.event
+    var target = event.target || event.srcElement
+    var link = target.src ? target.parentNode : target
+    var options = { index: link, event: event }
+    var links = this.getElementsByTagName('a')
+    blueimp.Gallery(links, options)
+  }
+</script>
+
+<script>
+  blueimp.Gallery(document.getElementById('gallery7_links').getElementsByTagName('a'), {
+    container: '#gallery7',
+    carousel: true
+  })
+</script>
+</div>
+
 Distance : 17 km
 Elevation : 1000m+
 Time : 06h00
 
-### Day 8 : Tilicho Base Camp - Yak Kharka
+#### Day 8 : Tilicho Base Camp - Yak Kharka
 The alarm rang at 4am as expected. 
 We hardly slept again due to low temperature. We tried to fill our water bottle but all tap were frozen! So we did refill on the way through the river (worthless since our Lifestraw did froze too !). The hike was terrible due to dangerous landslide but the experience under the stars and before the sunrise was just amazing. When we reached the lake our hands were frozen but again the view was worth it!
 
@@ -243,11 +498,73 @@ All the way up to Upper Khangsar was exactly the same as the day before, so we d
 That day was so hard but we made it! So proud of ourselves.
 The best thing is Yak Kharka was definitely  the hot shower!
 
+<!-- Gallery -->
+<div
+  id="gallery8"
+  class="blueimp-gallery blueimp-gallery-carousel"
+  aria-label="image carousel">
+  <div class="slides" aria-live="off"></div>
+  <h3 class="title"></h3>
+  <a
+    class="prev"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="previous slide"></a>
+  <a
+    class="next"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="next slide"></a>
+  <a
+    class="play-pause"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="play slideshow"
+    aria-pressed="true"
+    role="button"></a>
+  <ol class="indicator"></ol>
+</div>
+
+<script src="/plugins/blueimp/blueimp-gallery.min.js"></script>
+
+<div id="gallery8_links">
+    <a href="/images/gallery/nepal/day8/Picture1.jpg"></a>
+    <a href="/images/gallery/nepal/day8/Picture2.jpg"></a>
+    <a href="/images/gallery/nepal/day8/Picture3.jpg"></a>
+    <a href="/images/gallery/nepal/day8/Picture4.jpg"></a>
+    <a href="/images/gallery/nepal/day8/Picture5.jpg"></a>
+    <a href="/images/gallery/nepal/day8/Picture6.jpg"></a>
+    <a href="/images/gallery/nepal/day8/Picture7.jpg"></a>
+    <a href="/images/gallery/nepal/day8/Picture8.jpg"></a>
+    <a href="/images/gallery/nepal/day8/Picture9.jpg"></a>
+    <a href="/images/gallery/nepal/day8/Picture10.jpg"></a>
+    <a href="/images/gallery/nepal/day8/Picture11.jpg"></a>
+    <a href="/images/gallery/nepal/day8/Picture12.jpg"></a>
+</div>
+
+<div>
+
+  <script>
+  document.getElementById('gallery8_links').onclick = function (event) {
+    event = event || window.event
+    var target = event.target || event.srcElement
+    var link = target.src ? target.parentNode : target
+    var options = { index: link, event: event }
+    var links = this.getElementsByTagName('a')
+    blueimp.Gallery(links, options)
+  }
+</script>
+
+<script>
+  blueimp.Gallery(document.getElementById('gallery8_links').getElementsByTagName('a'), {
+    container: '#gallery8',
+    carousel: true
+  })
+</script>
+</div>
+
 Distance : 29 km
 Elevation : 1800m+
 Time : 12h30
 
-### Day 9 : Yak Kharka - Thorong La High Camp
+#### Day 9 : Yak Kharka - Thorong La High Camp
 We woke up early again as our goal was to reach High Camp and got a room. 
 The hike was mostly going up, in the rocky mountain up to Thorong Phedi where we took a quick break and finally started our hike up to High Camp : that was hard but the view was rewarding! 
 The Camp was far better than Tilicho Base Camp, our room even had light! 
@@ -256,11 +573,70 @@ As we arrived early we decided to climb to the upper view point to appreciate th
 
 We spent the rest of the day chilling and talking with people we met earlier on the trek.
 
+<!-- Gallery -->
+<div
+  id="gallery9"
+  class="blueimp-gallery blueimp-gallery-carousel"
+  aria-label="image carousel">
+  <div class="slides" aria-live="off"></div>
+  <h3 class="title"></h3>
+  <a
+    class="prev"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="previous slide"></a>
+  <a
+    class="next"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="next slide"></a>
+  <a
+    class="play-pause"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="play slideshow"
+    aria-pressed="true"
+    role="button"></a>
+  <ol class="indicator"></ol>
+</div>
+
+<script src="/plugins/blueimp/blueimp-gallery.min.js"></script>
+
+<div id="gallery9_links">
+    <a href="/images/gallery/nepal/day9/Picture1.jpg"></a>
+    <a href="/images/gallery/nepal/day9/Picture2.jpg"></a>
+    <a href="/images/gallery/nepal/day9/Picture3.jpg"></a>
+    <a href="/images/gallery/nepal/day9/Picture4.jpg"></a>
+    <a href="/images/gallery/nepal/day9/Picture5.jpg"></a>
+    <a href="/images/gallery/nepal/day9/Picture6.jpg"></a>
+    <a href="/images/gallery/nepal/day9/Picture7.jpg"></a>
+    <a href="/images/gallery/nepal/day9/Picture8.jpg"></a>
+    <a href="/images/gallery/nepal/day9/Picture9.jpg"></a>
+</div>
+
+<div>
+
+  <script>
+  document.getElementById('gallery9_links').onclick = function (event) {
+    event = event || window.event
+    var target = event.target || event.srcElement
+    var link = target.src ? target.parentNode : target
+    var options = { index: link, event: event }
+    var links = this.getElementsByTagName('a')
+    blueimp.Gallery(links, options)
+  }
+</script>
+
+<script>
+  blueimp.Gallery(document.getElementById('gallery9_links').getElementsByTagName('a'), {
+    container: '#gallery9',
+    carousel: true
+  })
+</script>
+</div>
+
 Distance : 9 km
 Elevation : 900m+
 Time : 04h00
 
-### Day 10 : Thorong La High Camp - Jharkot
+#### Day 10 : Thorong La High Camp - Jharkot
 I couldn’t breathe...just walking up the few hundred meters from our room to the dining hall for our early 4.30am breakfast I realized I walked too fast and ended up breathing in and out in front of the door below zero degree Celsius. We started around 5am and  again I felt really cold with my few gears! We hardly saw the sunrise (which was in our back) and my hands were deeply frozen to take any pictures... Some people were crying on the way due to the hard feeling of inability to breathe, while we had some issues too but always stopped on time to rest a bit before going on. 
 
 We reached La pass around 6.30am, so proud of ourselves and enjoyed a hot boiling tea in a tiny wooden tea house at 5416m! 
@@ -269,11 +645,74 @@ We thought we did the hardest part but on my side i felt the descent even harder
 
 We finally reached Muktinath around 10.30am and decided to visit the monastery while we were there. After a good lunch under the sun, we kept walking a bit further up to Jharkot to avoid other tourists and it was probably our best choice of the day!
 
+<!-- Gallery -->
+<div
+  id="gallery10"
+  class="blueimp-gallery blueimp-gallery-carousel"
+  aria-label="image carousel">
+  <div class="slides" aria-live="off"></div>
+  <h3 class="title"></h3>
+  <a
+    class="prev"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="previous slide"></a>
+  <a
+    class="next"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="next slide"></a>
+  <a
+    class="play-pause"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="play slideshow"
+    aria-pressed="true"
+    role="button"></a>
+  <ol class="indicator"></ol>
+</div>
+
+<script src="/plugins/blueimp/blueimp-gallery.min.js"></script>
+
+<div id="gallery10_links">
+    <a href="/images/gallery/nepal/day10/Picture1.jpg"></a>
+    <a href="/images/gallery/nepal/day10/Picture2.jpg"></a>
+    <a href="/images/gallery/nepal/day10/Picture3.jpg"></a>
+    <a href="/images/gallery/nepal/day10/Picture4.jpg"></a>
+    <a href="/images/gallery/nepal/day10/Picture5.jpg"></a>
+    <a href="/images/gallery/nepal/day10/Picture6.jpg"></a>
+    <a href="/images/gallery/nepal/day10/Picture7.jpg"></a>
+    <a href="/images/gallery/nepal/day10/Picture8.jpg"></a>
+    <a href="/images/gallery/nepal/day10/Picture9.jpg"></a>
+    <a href="/images/gallery/nepal/day10/Picture10.jpg"></a>
+    <a href="/images/gallery/nepal/day10/Picture11.jpg"></a>
+    <a href="/images/gallery/nepal/day10/Picture12.jpg"></a>
+    <a href="/images/gallery/nepal/day10/Picture13.jpg"></a>
+</div>
+
+<div>
+
+  <script>
+  document.getElementById('gallery10_links').onclick = function (event) {
+    event = event || window.event
+    var target = event.target || event.srcElement
+    var link = target.src ? target.parentNode : target
+    var options = { index: link, event: event }
+    var links = this.getElementsByTagName('a')
+    blueimp.Gallery(links, options)
+  }
+</script>
+
+<script>
+  blueimp.Gallery(document.getElementById('gallery10_links').getElementsByTagName('a'), {
+    container: '#gallery10',
+    carousel: true
+  })
+</script>
+</div>
+
 Distance : 18 km
 Elevation : 570m+
 Time : 06h00
 
-### Day 11 : Jharkot - Marpha
+#### Day 11 : Jharkot - Marpha
 Horrible...that was probably the summary of today! We started the hike after a good night and an excellent breakfast, but after nothing really worked for us.
 
 First, we didn’t plan to go up, but the first hour was just a nightmare : Andy lost his smartphone on the way and hopefully we found it back. We arrived in Lupra and took a quick rest while my feet started to hurt already (so many blisters coming up). Then we just followed the Annapurna Circuit to Jomsom on a dangerous landslide trail and arrived on a dead-end! We were so pissed off as no sign warned us of this blocked trail and thanks to Andy we managed to climb down the last 10m using his rope to pass our bags from the top : scary adventure - we have informed the check post but they seem not really interested to know that issue. Then under a strong wind in this dusty environment, we follow the river bed up to Jomsom (horrible trail walking on rock and sand, definitely not helping my blisters).
@@ -282,11 +721,74 @@ Jomsom had nothing to offer so we followed the path (on a dusty road) up to Marp
 
 It looked that this side of the mountain was less interesting so far.
 
+<!-- Gallery -->
+<div
+  id="gallery11"
+  class="blueimp-gallery blueimp-gallery-carousel"
+  aria-label="image carousel">
+  <div class="slides" aria-live="off"></div>
+  <h3 class="title"></h3>
+  <a
+    class="prev"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="previous slide"></a>
+  <a
+    class="next"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="next slide"></a>
+  <a
+    class="play-pause"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="play slideshow"
+    aria-pressed="true"
+    role="button"></a>
+  <ol class="indicator"></ol>
+</div>
+
+<script src="/plugins/blueimp/blueimp-gallery.min.js"></script>
+
+<div id="gallery11_links">
+    <a href="/images/gallery/nepal/day11/Picture1.jpg"></a>
+    <a href="/images/gallery/nepal/day11/Picture2.jpg"></a>
+    <a href="/images/gallery/nepal/day11/Picture3.jpg"></a>
+    <a href="/images/gallery/nepal/day11/Picture4.jpg"></a>
+    <a href="/images/gallery/nepal/day11/Picture5.jpg"></a>
+    <a href="/images/gallery/nepal/day11/Picture6.jpg"></a>
+    <a href="/images/gallery/nepal/day11/Picture7.jpg"></a>
+    <a href="/images/gallery/nepal/day11/Picture8.jpg"></a>
+    <a href="/images/gallery/nepal/day11/Picture9.jpg"></a>
+    <a href="/images/gallery/nepal/day11/Picture10.jpg"></a>
+    <a href="/images/gallery/nepal/day11/Picture11.jpg"></a>
+    <a href="/images/gallery/nepal/day11/Picture12.jpg"></a>
+    <a href="/images/gallery/nepal/day11/Picture13.jpg"></a>
+</div>
+
+<div>
+
+  <script>
+  document.getElementById('gallery11_links').onclick = function (event) {
+    event = event || window.event
+    var target = event.target || event.srcElement
+    var link = target.src ? target.parentNode : target
+    var options = { index: link, event: event }
+    var links = this.getElementsByTagName('a')
+    blueimp.Gallery(links, options)
+  }
+</script>
+
+<script>
+  blueimp.Gallery(document.getElementById('gallery11_links').getElementsByTagName('a'), {
+    container: '#gallery11',
+    carousel: true
+  })
+</script>
+</div>
+
 Distance : 24 km
 Elevation : 800m+
 Time : 07h00
 
-### Day 12 : Marpha - Ghansa
+#### Day 12 : Marpha - Ghansa
 
 Probably the most painful day hike on my side due to my blisters. The hike mostly going down it didn’t help my feet. 
 
@@ -294,36 +796,267 @@ Most of the trail was destroyed so we had to walk on the dusty road, avoiding th
 
 Arrived in Ghansa, we will stop in a guesthouse and find out that all the remaining trekkers finishing the Annapurna circuit stopped in the same guesthouse making our dinner funny and interesting!
 
+<!-- Gallery -->
+<div
+  id="gallery12"
+  class="blueimp-gallery blueimp-gallery-carousel"
+  aria-label="image carousel">
+  <div class="slides" aria-live="off"></div>
+  <h3 class="title"></h3>
+  <a
+    class="prev"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="previous slide"></a>
+  <a
+    class="next"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="next slide"></a>
+  <a
+    class="play-pause"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="play slideshow"
+    aria-pressed="true"
+    role="button"></a>
+  <ol class="indicator"></ol>
+</div>
+
+<script src="/plugins/blueimp/blueimp-gallery.min.js"></script>
+
+<div id="gallery12_links">
+    <a href="/images/gallery/nepal/day12/Picture1.jpg"></a>
+    <a href="/images/gallery/nepal/day12/Picture2.jpg"></a>
+    <a href="/images/gallery/nepal/day12/Picture3.jpg"></a>
+    <a href="/images/gallery/nepal/day12/Picture4.jpg"></a>
+    <a href="/images/gallery/nepal/day12/Picture5.jpg"></a>
+    <a href="/images/gallery/nepal/day12/Picture6.jpg"></a>
+    <a href="/images/gallery/nepal/day12/Picture7.jpg"></a>
+    <a href="/images/gallery/nepal/day12/Picture8.jpg"></a>
+</div>
+
+<div>
+
+  <script>
+  document.getElementById('gallery12_links').onclick = function (event) {
+    event = event || window.event
+    var target = event.target || event.srcElement
+    var link = target.src ? target.parentNode : target
+    var options = { index: link, event: event }
+    var links = this.getElementsByTagName('a')
+    blueimp.Gallery(links, options)
+  }
+</script>
+
+<script>
+  blueimp.Gallery(document.getElementById('gallery12_links').getElementsByTagName('a'), {
+    container: '#gallery12',
+    carousel: true
+  })
+</script>
+</div>
+
 Distance : 30 km
 Elevation : 1000m+
 
 Time : 10h00
 
-### Day 13 : Ghansa - Tatopani
+#### Day 13 : Ghansa - Tatopani
 
 Another non really interesting day hike that we had finish pretty early in order to rest our feet.
+
+<!-- Gallery -->
+<div
+  id="gallery13"
+  class="blueimp-gallery blueimp-gallery-carousel"
+  aria-label="image carousel">
+  <div class="slides" aria-live="off"></div>
+  <h3 class="title"></h3>
+  <a
+    class="prev"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="previous slide"></a>
+  <a
+    class="next"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="next slide"></a>
+  <a
+    class="play-pause"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="play slideshow"
+    aria-pressed="true"
+    role="button"></a>
+  <ol class="indicator"></ol>
+</div>
+
+<script src="/plugins/blueimp/blueimp-gallery.min.js"></script>
+
+<div id="gallery13_links">
+    <a href="/images/gallery/nepal/day13/Picture1.jpg"></a>
+    <a href="/images/gallery/nepal/day13/Picture2.jpg"></a>
+    <a href="/images/gallery/nepal/day13/Picture3.jpg"></a>
+    <a href="/images/gallery/nepal/day13/Picture4.jpg"></a>
+</div>
+
+<div>
+
+  <script>
+  document.getElementById('gallery13_links').onclick = function (event) {
+    event = event || window.event
+    var target = event.target || event.srcElement
+    var link = target.src ? target.parentNode : target
+    var options = { index: link, event: event }
+    var links = this.getElementsByTagName('a')
+    blueimp.Gallery(links, options)
+  }
+</script>
+
+<script>
+  blueimp.Gallery(document.getElementById('gallery13_links').getElementsByTagName('a'), {
+    container: '#gallery13',
+    carousel: true
+  })
+</script>
+</div>
 
 Distance : 16 km
 Elevation : 600m+
 
 Time : 05h30
 
-### Day 14 : Tatopani - Ghorepani
+#### Day 14 : Tatopani - Ghorepani
 
 We just thought that after Thorang La pass we would only go down but that didn’t happen. The way to Ghorepani was a deep ascent on the rocky mountain, passing a lot of villages and forgetting our feet issues! We really loved it and arrived before lunch at Ghorepani making it our first full stop (lunch, dinner, breakfast).
+
+<!-- Gallery -->
+<div
+  id="gallery14"
+  class="blueimp-gallery blueimp-gallery-carousel"
+  aria-label="image carousel">
+  <div class="slides" aria-live="off"></div>
+  <h3 class="title"></h3>
+  <a
+    class="prev"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="previous slide"></a>
+  <a
+    class="next"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="next slide"></a>
+  <a
+    class="play-pause"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="play slideshow"
+    aria-pressed="true"
+    role="button"></a>
+  <ol class="indicator"></ol>
+</div>
+
+<script src="/plugins/blueimp/blueimp-gallery.min.js"></script>
+
+<div id="gallery14_links">
+    <a href="/images/gallery/nepal/day14/Picture1.jpg"></a>
+    <a href="/images/gallery/nepal/day14/Picture2.jpg"></a>
+    <a href="/images/gallery/nepal/day14/Picture3.jpg"></a>
+    <a href="/images/gallery/nepal/day14/Picture4.jpg"></a>
+    <a href="/images/gallery/nepal/day14/Picture5.jpg"></a>
+    <a href="/images/gallery/nepal/day14/Picture6.jpg"></a>
+</div>
+
+<div>
+
+  <script>
+  document.getElementById('gallery14_links').onclick = function (event) {
+    event = event || window.event
+    var target = event.target || event.srcElement
+    var link = target.src ? target.parentNode : target
+    var options = { index: link, event: event }
+    var links = this.getElementsByTagName('a')
+    blueimp.Gallery(links, options)
+  }
+</script>
+
+<script>
+  blueimp.Gallery(document.getElementById('gallery14_links').getElementsByTagName('a'), {
+    container: '#gallery14',
+    carousel: true
+  })
+</script>
+</div>
 
 Distance : 16 km
 Elevation : 1700m+
 
 Time : 07h00
 
-### Day 15 : Ghorepani - Poon Hill - Ghandruk
+#### Day 15 : Ghorepani - Poon Hill - Ghandruk
 
 We’ve reached day #15, the final descent to Ghandruk before getting a bus to Pokhara.
 
 But before any descend, we started our day by a little ascent to Poon Hill to enjoy our first real sunrise! It was beautiful even if really crowded.
 
 The descent will be easier than expected running on the steep stairs through the dense forest to alleviate our knees.
+
+<!-- Gallery -->
+<div
+  id="gallery15"
+  class="blueimp-gallery blueimp-gallery-carousel"
+  aria-label="image carousel">
+  <div class="slides" aria-live="off"></div>
+  <h3 class="title"></h3>
+  <a
+    class="prev"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="previous slide"></a>
+  <a
+    class="next"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="next slide"></a>
+  <a
+    class="play-pause"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="play slideshow"
+    aria-pressed="true"
+    role="button"></a>
+  <ol class="indicator"></ol>
+</div>
+
+<script src="/plugins/blueimp/blueimp-gallery.min.js"></script>
+
+<div id="gallery15_links">
+    <a href="/images/gallery/nepal/day15/Picture1.jpg"></a>
+    <a href="/images/gallery/nepal/day15/Picture2.jpg"></a>
+    <a href="/images/gallery/nepal/day15/Picture3.jpg"></a>
+    <a href="/images/gallery/nepal/day15/Picture4.jpg"></a>
+    <a href="/images/gallery/nepal/day15/Picture5.jpg"></a>
+    <a href="/images/gallery/nepal/day15/Picture6.jpg"></a>
+    <a href="/images/gallery/nepal/day15/Picture7.jpg"></a>
+    <a href="/images/gallery/nepal/day15/Picture8.jpg"></a>
+    <a href="/images/gallery/nepal/day15/Picture9.jpg"></a>
+    <a href="/images/gallery/nepal/day15/Picture10.jpg"></a>
+    <a href="/images/gallery/nepal/day15/Picture11.jpg"></a>
+    <a href="/images/gallery/nepal/day15/Picture12.jpg"></a>
+    <a href="/images/gallery/nepal/day15/Picture13.jpg"></a>
+</div>
+
+<div>
+
+  <script>
+  document.getElementById('gallery15_links').onclick = function (event) {
+    event = event || window.event
+    var target = event.target || event.srcElement
+    var link = target.src ? target.parentNode : target
+    var options = { index: link, event: event }
+    var links = this.getElementsByTagName('a')
+    blueimp.Gallery(links, options)
+  }
+</script>
+
+<script>
+  blueimp.Gallery(document.getElementById('gallery15_links').getElementsByTagName('a'), {
+    container: '#gallery15',
+    carousel: true
+  })
+</script>
+</div>
 
 Distance : 19 km
 Elevation : 1100m+

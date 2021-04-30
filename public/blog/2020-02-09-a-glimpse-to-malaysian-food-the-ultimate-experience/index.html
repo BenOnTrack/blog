@@ -148,7 +148,108 @@ Some people eat to live, while others live to eat." />
           <p>When it comes to food, Malaysia is definitely THE gastronomic delight for any foodie !!</p>
 <p>Some people eat to live, while others live to eat. I guess most of Malay belong to the second group, and I already fell in love with this food addiction.</p>
 <p>To drench your taste buds, you&rsquo;ll find below a selection of malay, chinese-malay and indian-malay cuisine.</p>
+<!-- Gallery -->
+<div
+  id="gallery"
+  class="blueimp-gallery blueimp-gallery-carousel"
+  aria-label="image carousel">
+  <div class="slides" aria-live="off"></div>
+  <h3 class="title"></h3>
+  <a
+    class="prev"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="previous slide"></a>
+  <a
+    class="next"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="next slide"></a>
+  <a
+    class="play-pause"
+    aria-controls="blueimp-gallery-carousel"
+    aria-label="play slideshow"
+    aria-pressed="true"
+    role="button"></a>
+  <ol class="indicator"></ol>
+</div>
+<script src="/plugins/blueimp/blueimp-gallery.min.js"></script>
+<div id="gallery_links">
+    <a href="/images/gallery/malaysian-food/Picture1.jpg" data-description="This is a banana."> </a>
+    <a href="/images/gallery/malaysian-food/Picture2.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture3.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture4.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture5.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture6.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture7.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture8.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture9.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture10.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture11.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture12.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture13.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture14.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture15.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture16.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture17.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture18.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture19.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture20.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture21.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture22.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture23.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture24.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture25.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture26.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture27.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture28.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture29.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture30.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture31.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture32.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture33.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture34.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture35.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture36.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture37.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture38.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture39.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture40.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture41.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture42.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture43.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture44.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture45.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture46.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture47.jpg"></a>
+    <a href="/images/gallery/malaysian-food/Picture48.jpg"></a>
+</div>
+<div>
+ <script>
+  document.getElementById('gallery_links').onclick = function (event) {
+    event = event || window.event
+    var target = event.target || event.srcElement
+    var link = target.src ? target.parentNode : target
+    var options = { index: link, event: event }
+    var links = this.getElementsByTagName('a')
+    blueimp.Gallery(links, options)
+  }
 
+blueimp.Gallery(document.getElementById('gallery_links'), {
+  onslide: function (index, slide) {
+    var text = this.list[index].getAttribute('data-description'),
+      node = this.container.find('.description')
+    node.empty()
+    if (text) {
+      node[0].appendChild(document.createTextNode(text))
+    }
+  }
+})
+
+  blueimp.Gallery(document.getElementById('gallery_links').getElementsByTagName('a'), {
+    container: '#gallery',
+    carousel: true
+  })
+</script>
+</div>
         </article>
         <div>
         

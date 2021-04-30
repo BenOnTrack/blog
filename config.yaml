@@ -19,14 +19,11 @@ params:
   address: Made with love in Toulouse
   author: BenOnTrack
   author_image: images/banner-img.png
-  bio: I’m a Freelance Interactive Art Director based in France. Focusing across branding
-    and identity, digital and print.
-  contact_form_action: 'mailto:benontrack@gmail.com'
   cookies:
     enable: yes
     expire_days: 2
   copyright: Copyright &copy; 2021 a theme by BenOnTrack
-  description: This is meta description
+  description: Blog about travels and tips
   email: BenOnTrack@gmail.com
   home: Home
   logo: images/logo_square_small.png

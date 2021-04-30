@@ -137,8 +137,6 @@
     <loc>https://benontrack.netlify.app/blog/2012-08-05-venezuela-colombia/</loc>
     <lastmod>2012-08-05T14:46:10+06:00</lastmod>
   </url><url>
-    <loc>https://benontrack.netlify.app/contact/</loc>
-  </url><url>
     <loc>https://benontrack.netlify.app/homepage/home-1/</loc>
   </url><url>
     <loc>https://benontrack.netlify.app/homepage/home-2/</loc>
@@ -146,5 +144,7 @@
     <loc>https://benontrack.netlify.app/homepage/</loc>
   </url><url>
     <loc>https://benontrack.netlify.app/search/</loc>
+  </url><url>
+    <loc>https://benontrack.netlify.app/subscribe/</loc>
   </url>
 </urlset>

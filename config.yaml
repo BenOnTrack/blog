@@ -74,8 +74,8 @@ menu:
     - name: Itinerary
       url: map
       weight: 5
-    - name: Contact
-      url: contact
+    - name: Subscribe
+      url: subscribe
       weight: 6
 
       

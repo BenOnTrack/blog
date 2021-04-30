@@ -215,15 +215,6 @@ Maps.me - Find your way! When it comes to travel abroad, there will always be a 
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>https://benontrack.netlify.app/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://benontrack.netlify.app/contact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Homepage 1</title>
       <link>https://benontrack.netlify.app/homepage/home-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -247,6 +238,15 @@ Maps.me - Find your way! When it comes to travel abroad, there will always be a 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://benontrack.netlify.app/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subscribe</title>
+      <link>https://benontrack.netlify.app/subscribe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://benontrack.netlify.app/subscribe/</guid>
       <description></description>
     </item>
     

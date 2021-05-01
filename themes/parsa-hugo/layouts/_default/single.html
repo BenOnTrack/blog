@@ -31,6 +31,7 @@
         {{ if .Params.gallery }}
         {{ partial "gallery.html" . }}
         {{ end }}
+        {{partial "socialsharing.html" . }}
         {{partial "disqus.html" . }}
         </div>
       </div>

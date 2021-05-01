@@ -1,5 +1,5 @@
 ---
-description: This is meta description
+description: Subscribe to new posts!
 layout: subscribe
 title: Subscribe
 ---

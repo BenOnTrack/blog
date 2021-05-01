@@ -2,22 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://benontrack.netlify.app/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://benontrack.netlify.app/blog/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://benontrack.netlify.app/categories/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://benontrack.netlify.app/tags/podcast/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://benontrack.netlify.app/categories/podcast/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://benontrack.netlify.app/tags/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://benontrack.netlify.app/blog/2021-05-01-thinkerview/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://benontrack.netlify.app/map/</loc>
     <lastmod>2021-03-30T14:46:10+06:00</lastmod>
   </url><url>
     <loc>https://benontrack.netlify.app/categories/asia/</loc>
-    <lastmod>2020-08-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://benontrack.netlify.app/</loc>
-    <lastmod>2020-08-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://benontrack.netlify.app/blog/</loc>
-    <lastmod>2020-08-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://benontrack.netlify.app/categories/</loc>
-    <lastmod>2020-08-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://benontrack.netlify.app/tags/</loc>
     <lastmod>2020-08-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://benontrack.netlify.app/tags/video/</loc>

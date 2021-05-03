@@ -10,7 +10,7 @@ tags:
   - Podcast
 ---
 
-Si vous ne savez pas comment occuper vos longues soirées confinées, je vous conseille cette chaîne de podcast d'émission-débat :
+Si vous ne savez pas comment occuper vos longues soirées confinées, je vous conseille cette chaîne de podcast d'émission-débat (merci à zaza!) :
 
 <https://www.thinkerview.com/>
 
